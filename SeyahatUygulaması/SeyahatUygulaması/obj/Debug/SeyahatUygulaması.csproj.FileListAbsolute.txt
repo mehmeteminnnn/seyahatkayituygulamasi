@@ -1,0 +1,12 @@
+C:\Users\mhmtm\Desktop\SeyahatUygulaması\SeyahatUygulaması\bin\Debug\SeyahatUygulaması.exe.config
+C:\Users\mhmtm\Desktop\SeyahatUygulaması\SeyahatUygulaması\bin\Debug\SeyahatUygulaması.exe
+C:\Users\mhmtm\Desktop\SeyahatUygulaması\SeyahatUygulaması\bin\Debug\SeyahatUygulaması.pdb
+C:\Users\mhmtm\Desktop\SeyahatUygulaması\SeyahatUygulaması\obj\Debug\SeyahatUygulaması.csproj.AssemblyReference.cache
+C:\Users\mhmtm\Desktop\SeyahatUygulaması\SeyahatUygulaması\obj\Debug\SeyahatUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmtm\Desktop\SeyahatUygulaması\SeyahatUygulaması\obj\Debug\SeyahatUygulaması.Form1.resources
+C:\Users\mhmtm\Desktop\SeyahatUygulaması\SeyahatUygulaması\obj\Debug\SeyahatUygulaması.Properties.Resources.resources
+C:\Users\mhmtm\Desktop\SeyahatUygulaması\SeyahatUygulaması\obj\Debug\SeyahatUygulaması.csproj.GenerateResource.cache
+C:\Users\mhmtm\Desktop\SeyahatUygulaması\SeyahatUygulaması\obj\Debug\SeyahatUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\mhmtm\Desktop\SeyahatUygulaması\SeyahatUygulaması\obj\Debug\SeyahatUygulaması.exe
+C:\Users\mhmtm\Desktop\SeyahatUygulaması\SeyahatUygulaması\obj\Debug\SeyahatUygulaması.pdb
+C:\Users\mhmtm\Desktop\SeyahatUygulaması\SeyahatUygulaması\obj\Debug\SeyahatUygulaması.Form2.resources
